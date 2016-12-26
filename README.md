@@ -23,7 +23,7 @@ $ git clone https://github.com/joeldeval/Appendientes.git
   ```
 # Tecnologías
 
-  - ### [Mongo DB](http://mongodb.org/)
-  - ### [Express](http://expressjs.com/es/)
-  - ### [Angular 2.0](https://angular.io/)
-  - ### [Node JS](https://nodejs.org/en/)
+  - ## [Mongo DB](http://mongodb.org/)
+  - ## [Express](http://expressjs.com/es/)
+  - ## [Angular 2.0](https://angular.io/)
+  - ## [Node JS](https://nodejs.org/en/)
